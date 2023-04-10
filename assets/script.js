@@ -47,10 +47,10 @@ const bodyjs = document.createElement("body");
 document.body.style.marginRight = "20%";
 document.body.style.marginLeft = "20%";
 document.body.style.backgroundColor = "rgb(150, 0, 0)"
-document.body.style.borderStyle = "solid";
 
 // document.body.style.width = "auto";
 document.body.style.height = "140vh";
+bodyjs.style.marginBottom = "10vh"
 
 /***********************************************************/
 
